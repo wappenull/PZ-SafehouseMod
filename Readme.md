@@ -1,0 +1,1 @@
+Place this folder in C:\Users\*USER*\Zomboid\mods\
