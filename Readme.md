@@ -1,1 +1,1 @@
-Place this folder in C:\Users\*USER*\Zomboid\mods\
+Place this mod folder in `C:\Users\USERNAME\Zomboid\mods\`
